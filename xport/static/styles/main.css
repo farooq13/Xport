@@ -18,6 +18,7 @@ a{
   margin-left: 10px;
   margin-right: 20px;
   position: static;
+  background-color: rgb(211, 210, 210);
 }
 
 .nav-flex-container {
@@ -26,6 +27,9 @@ a{
   align-items: center;
   vertical-align: top;
   margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(211, 210, 210);
+  padding: 10px;
 }
 
 .logo {
@@ -38,13 +42,7 @@ a{
   align-items: center;
 }
 
-.nav-devider {
-  margin: auto;
-  width: 1000px;
-  margin-top: 10px;
-  margin-bottom: 2rem;
-  border-width: 1px;
-}
+
 /* Nav End */
 
 /* index start */
